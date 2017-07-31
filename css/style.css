@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Kreon');
+
+/*-- include background color to be green hex CFE888--*/
+
+
+body{
+    background-color: #CFE888;
+    font-family: 'kreon' serif;
+}
+    
+h2{
+    font-size: 40px;font-family:'kreon'; serif;  
+}
+
+li{
+    display: inline
+}
+/*-- need to center images--*/
+img {
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+/*-- need to set margin for each class--*/
+/*-- need to center text--*/
+
+.coolfacts{
+    font-size: 25px;
+    margin: 10px 10px 10px 10px;
+    border: 10px green dashed;
+    padding: 40px 40px 40px 40px;
+    text-align: center;
+}
+
+.homepage{
+    font-size: 25px;
+    text-align: center;
+}
+
+.aboutmydog{
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    padding: 40px 40px 40px 40px;
+    text-align: center;
+}
+/*-- second page of site should have text--*/
+.about{
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    padding: 40px 40px 40px 40px;
+    text-align: center;
+}
+
+#dogcare:{
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
